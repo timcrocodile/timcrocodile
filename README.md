@@ -64,6 +64,7 @@
   
   <div  >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={timcrocodile}">
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}&theme={dracula}">
  
