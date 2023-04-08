@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://media.giphy.com/media/pd2dAVkc40gar0UI1o/giphy.gif" alt="mikejordan">
+<img src="https://media.giphy.com/media/pd2dAVkc40gar0UI1o/giphy.gif" width="100" alt="mikejordan">
 
 <!--
 **timcrocodile/timcrocodile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
