@@ -10,11 +10,16 @@
 <img src="https://img.shields.io/static/v1?label=%3Cwelcome%3E&message=%3Conboard!%3E&color=%3Corange%3E" width="150"/>
   </div>
   
-
-
-
-
  
+  
+  Ecco alcune semplici statistiche :
+  
+  <div display=flex >
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrocodile&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
  
 
 
