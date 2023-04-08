@@ -1,9 +1,10 @@
 
 <div  id="header" align="center">
-  <p> hello! this is my workspace! 🫗</p>
+<img src="name.svg"/>
+
 <img src="https://i.giphy.com/media/pd2dAVkc40gar0UI1o/giphy.webp" width="550"/>
   </div>
-  
+
   
 <div  id="header" align="center">
   
