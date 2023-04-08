@@ -4,21 +4,28 @@
 
 <img src="https://i.giphy.com/media/pd2dAVkc40gar0UI1o/giphy.webp" width="550"/>
   </div>
+  
+## social
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://www.linkedin.com/in/fabio-massi-7b755112a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?in/fabio-massi-7b755112a/style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
 
   
-<div  id="header" align="center">
   
+## my stacks  
+<div  id="header" align="center">
 <img src="https://img.shields.io/static/v1?label=%3Cwelcome%3E&message=%3Conboard!%3E&color=%3Corange%3E" width="150"/>
   </div>
   
  
+## my stats
   
-  Ecco alcune semplici statistiche :
-  
-  <div display=flex >
+  <div  >
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrocodile&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcrocodile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
