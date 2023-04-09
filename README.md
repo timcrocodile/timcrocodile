@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/fabio-massi-7b755112a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"/></a>
   </div>
 
-## my repositories :
+## 🧪 Repos (🌐websites-links)
 
 
 
@@ -79,13 +79,13 @@
   
   <div  >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user={timcrocodile}">
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}">
+<!--  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}&theme={dracula}">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={timcrocodile}&theme={dracula}"> -->
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcrocodile&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcrocodile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats) -->
  </div>
  
  
