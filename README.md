@@ -13,11 +13,17 @@
 ## 🐧 Socials
 <div  id="header" align="left">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-<a href="https://www.linkedin.com/in/fabio-massi-7b755112a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/fabio-massi-7b755112a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"/></a>
   </div>
 
 
 
+# const CodeWeek = { javascript ; css } 
+
+<!-- <img src="https://gists-readme.yizack.com/api?user={timcrocodile}"> -->
+
+
+<a href="code-week-tau.vercel.app"  target="_blank">Code-Week</a>
 
 
   
