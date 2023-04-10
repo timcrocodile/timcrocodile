@@ -22,12 +22,12 @@
 
 ##### const <a href="https://code-week-tau.vercel.app/" target="_blank">Code-Week</a>  = { javascript ; css } 
 ##### const <a href="https://edgemony.vercel.app" target="_blank">Edgemony- To-Do list</a>  = { javascript ; css } 
-##### const <a href="cocktails-vite.vercel.app" target="_blank">Cocktails-vite</a>  = { vite } 
-##### const <a href="trips-1k9c.vercel.app/" target="_blank">Trips</a>  = {react routing , scss module } 
-##### const <a href="mytwitter-amiz.vercel.app/" target="_blank">my twitter</a>  = { react } 
-##### const <a href="solving-props-drilling.vercel.app" target="_blank">Solving Props Drilling</a>  = { react , reducers } 
-##### const <a href="global-state.vercel.app" target="_blank">Global State</a>  = { vite  } 
-##### const <a href="next-blog-one-delta.vercel.app/" target="_blank">Next Blog</a>  = { javascript ; css } 
+##### const <a href="https://cocktails-vite.vercel.app" target="_blank">Cocktails-vite</a>  = { vite } 
+##### const <a href="https://trips-1k9c.vercel.app/" target="_blank">Trips</a>  = {react routing , scss module } 
+##### const <a href="https://mytwitter-amiz.vercel.app/" target="_blank">my twitter</a>  = { react } 
+##### const <a href="https://solving-props-drilling.vercel.app" target="_blank">Solving Props Drilling</a>  = { react , reducers } 
+##### const <a href="https://global-state.vercel.app" target="_blank">Global State</a>  = { vite  } 
+##### const <a href="https://next-blog-one-delta.vercel.app/" target="_blank">Next Blog</a>  = { javascript ; css } 
  
 
 <!-- <img src="https://gists-readme.yizack.com/api?user={timcrocodile}"> -->
