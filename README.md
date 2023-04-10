@@ -21,7 +21,7 @@
 
 
 ##### const <a href="https://code-week-tau.vercel.app/" target="_blank">Code-Week</a>  = { javascript ; css } 
-##### const <a href="edgemony.vercel.app" target="_blank">Edgemony- To-Do list</a>  = { javascript ; css } 
+##### const <a href="https://edgemony.vercel.app" target="_blank">Edgemony- To-Do list</a>  = { javascript ; css } 
 ##### const <a href="cocktails-vite.vercel.app" target="_blank">Cocktails-vite</a>  = { vite } 
 ##### const <a href="trips-1k9c.vercel.app/" target="_blank">Trips</a>  = {react routing , scss module } 
 ##### const <a href="mytwitter-amiz.vercel.app/" target="_blank">my twitter</a>  = { react } 
