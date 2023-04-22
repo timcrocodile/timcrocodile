@@ -1,6 +1,6 @@
 <!--  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{timcrocodile}1212%2Fhit-counter"> -->
 
-![Visitor Count](https://profile-counter.glitch.me/{timcrocodile}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{timcrocodile}/count.svg)
 
 <div  id="header" align="center">
 <img src="name.svg"/>
