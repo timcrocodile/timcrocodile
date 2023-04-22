@@ -90,7 +90,7 @@
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=timcrocodile)](https://github.com/anuraghazra/github-readme-stats) -->
  </div>
  
- 
+ ![simpson2](https://user-images.githubusercontent.com/121046725/233797948-0ef5149b-6f6f-4e41-b5d1-181f7f9adad9.jpg)
  
 
 
